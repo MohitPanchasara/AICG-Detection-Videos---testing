@@ -1,0 +1,5 @@
+# ignore all your large checkpoints & results
+*/*checkpoints/
+models/
+*.pth
+*results.xlsx
